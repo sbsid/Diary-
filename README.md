@@ -1,2 +1,3 @@
 # Diary-
-Diary in java 
+Diary in java (applet)
+has .exe 
